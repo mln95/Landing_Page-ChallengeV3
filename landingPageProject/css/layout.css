@@ -1,0 +1,223 @@
+body{
+    color: white;
+}
+#main{
+    height: 100vh;
+    background-color: rgba(52,106,194,0.7);
+}
+
+/* ---------- header ---------- */
+/*The menu has been created dynamically. The css has not been implemented trough JS. 
+On JS we have only set the class name and create elements*/
+/* #clickMenu{
+    display: none;
+    cursor: pointer;
+}
+.bar1, .bar2, .bar3{
+    width: 35px;
+    background-color: rgb(52,106,194);
+    height: 5px;
+    margin: 6px 0;
+}
+.change .bar1 {
+    transform: rotate(-45deg) translate(-9px, 6px) ;
+  }
+.change .bar2 {
+    opacity: 0;
+  }
+.change .bar3 {
+    transform: rotate(45deg) translate(-8px, -8px) ;
+  }  */
+header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+header{
+    font-size: 20px;
+}
+header nav{
+    display: inline;
+}
+header nav ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-right: 2vw;
+    padding-top: 3vw;
+}
+header nav ul li a{
+    margin-right: 3.90625vw;
+    color: #346AC2;
+    font-weight: bold;
+}
+.start{
+    color: #FFFFFF;
+    background-color: rgba(52,106,194,0.7);
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+/* ---------- home ---------- */
+#home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 40vh;
+}
+#home h1{
+    color: white;
+    text-transform: uppercase;
+    font-size: 32px;
+    letter-spacing: 5px;
+    line-height: 1.5;
+    text-align: center;
+}
+#home span{
+    color:  #346AC2;
+}
+#home a{
+    margin-top: 2vw;
+    display: inline;
+    font-weight: bold;
+}
+#home img{
+    width: 45%;
+    position: absolute;
+    left:0;
+    top: 10vh;
+    z-index: -1;
+}
+/* ---------- about ---------- */
+#about{
+    padding: 0 3vw;
+    height: 100vh;
+}
+#about h1{
+    color: #346AC2;
+    text-align: center;
+    padding: 10vh 0;
+    text-transform: uppercase;
+}
+#bloc2 img{
+    width: 70%;
+    margin-left: 10vw;
+    margin-top: -4vh;
+    opacity: 0.5;
+} 
+#bloc{
+    display: grid;
+    grid-template-areas: 
+    "blocOne blocTwo";
+    align-items: center;
+}
+#bloc2{
+    grid-area: blocTwo;
+}
+#bloc2 img:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.5);
+}
+#bloc1{
+    grid-area: blocOne;
+    color: black;
+}
+#bloc1 p{
+    line-height: 2;
+    font-size: 20px;
+    text-align: justify;
+}
+#bloc1 p strong{
+    color: #346AC2;
+}
+/* ---------- services ---------- */
+#services{
+    background-color: rgba(52,106,194,0.3);
+    height: 100vh;
+}
+#services h1{
+    text-align: center;
+    padding: 10vh 0;
+}
+#servicesGroup{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#servicesGroup img{
+    max-width:20%;
+    margin: 2vh 0;
+}
+.backgroundBlock{
+    background-color: rgba(52,106,194,0.4);
+    margin-left: 5vw;
+    border-radius: 5px;
+}
+.backgroundBlock h2{
+    margin: 2vh 0;
+}
+.backgroundBlock p:nth-child(3){
+    line-height: 2;
+    text-align: justify;
+    padding: 0 1vw;
+}
+.backgroundBlock ul{
+    margin-top: 3vh;
+    margin-bottom: 4vh;
+}
+.backgroundBlock ul li{
+    margin-bottom: 2vh;
+    font-weight: bold;
+    font-size: 24px;
+}
+.backgroundBlock p a:nth-child(1){
+    text-align: center;
+    background-color: #FFFFFF;
+    padding: 2vh 2vw;
+    border-radius: 5px;
+    color: #346AC2;
+}
+;.backgroundBlock p:nth-child(5){
+    text-align: center;
+}
+#blockOne{
+    text-align: center;
+}
+#blockTwo{
+    text-align: center;
+}
+#blockThree{
+    text-align: center;
+    margin-right: 5vw;
+}
+/* ---------- contact ---------- */
+#contact{
+    color: #346AC2;
+    height: 100%;
+}
+#contact h1{
+    padding: 10vh 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+#contact input{
+    margin: 4vh 0;
+    padding: 2vh 0;
+}
+#contact textarea{
+    margin: 4vh 0;
+}
+#contact form{
+    text-align: center;
+}
+#contact .submit{
+    padding: 2vh 3vw;
+    background-color: rgba(52,106,194,0.7);
+    border: none;
+    color: #FFFFFF;
+}
+/* ---------- footer ---------- */
+footer{
+    background-color: #346AC2;
+    padding: 2vh 2vw;
+}

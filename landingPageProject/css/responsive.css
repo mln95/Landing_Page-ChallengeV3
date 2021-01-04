@@ -1,0 +1,65 @@
+@media screen and (max-width:540px){
+    header{
+        padding: 2vh 2vw;
+        /* max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.2s ease-out; */
+    }
+    header nav ul{
+        display: block;
+        padding: 0;
+    }
+    header nav ul .start{
+        display: none;
+    }
+    #clickMenu{
+        display: block;
+        padding: 1vh;
+        z-index: 1;
+    }
+    #home img{
+       width: 80%; 
+       left: 5vw;
+    }
+    #home h1{
+        margin-top: 6vh;
+    }
+    #bloc{
+        display: block;
+    }
+    #bloc2 img{
+        display: none;
+    }
+    #servicesGroup p{
+        display: none;
+    }
+    #about{
+        padding: 0;
+    }
+    #about h1{
+        padding: 0;
+    }
+}
+@media screen and (max-width:1024px){
+    #main{
+        height: 100%;
+    }
+    #home{
+        padding-bottom: 3vh;
+    }
+    #about{
+        height: 100%;
+    }
+    #bloc{
+        padding-bottom: 3vh;
+    }
+    #services{
+        height: 100%;
+    }
+    #services h1{
+        padding: 5vh;
+    }
+    #servicesGroup{
+        padding-bottom: 3vh;
+    }
+}
