@@ -15,4 +15,4 @@ If you need any more explanation dealing with the OPENWEATHER MAP API please sen
 
 ### Licence & Copyright
 
-&#169
+Copyright
