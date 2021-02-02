@@ -1,6 +1,6 @@
 # WEATHER APP
 
-**Version 1.0 - February 2020**
+**_Version 1.0 - February 2020_**
 
 ### Data from the API OPENWEATHERMAP
 
@@ -13,6 +13,8 @@ If you need any more explanation dealing with the OPENWEATHER MAP API please sen
 
 [Contact](mailto:lunde@adobe.com?subject=%20Help%20Hon%20Api)
 
+###
+
 ### Licence & Copyright
 
-Copyright [2020] [mln9540à]
+Copyright [2020] mln95400
