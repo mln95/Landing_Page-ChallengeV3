@@ -17,7 +17,7 @@ If you need any more explanation dealing with the OPENWEATHER MAP API please sen
 
 #### Steps
 
--First of all please make sure nodeJS is installed on your computer. If not the application will not work. You will find the link to download nodeJS here :
+- First of all please make sure nodeJS is installed on your computer. If not the application will not work. You will find the link to download nodeJS here :
 
 [NodeJS](https://nodejs.org/en/download/)
 
