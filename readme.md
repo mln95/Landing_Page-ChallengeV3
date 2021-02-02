@@ -1,6 +1,6 @@
 # WEATHER APP
 
-**Version 1.0**
+**Version 1.0 - February 2020**
 
 ### Data from the API OPENWEATHERMAP
 
@@ -15,4 +15,4 @@ If you need any more explanation dealing with the OPENWEATHER MAP API please sen
 
 ### Licence & Copyright
 
-Copyright
+Copyright [2020] [mln9540à]
