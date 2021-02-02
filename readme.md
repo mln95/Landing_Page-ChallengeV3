@@ -12,3 +12,7 @@
 If you need any more explanation dealing with the OPENWEATHER MAP API please send us an email to :
 
 [Contact](mailto:lunde@adobe.com?subject=%20Help%20Hon%20Api)
+
+### Licence & Copyright
+
+&#169
