@@ -9,5 +9,4 @@
 
 If you need any more explanation dealing with the OPENWEATHER MAP API please send us an email to :
 
-[contact](mailto:contact@contact.com?subject=[GitHub]%20Source%20Han%20Sans)
-[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=%20Help%20Hon%20Api)
+[Contact](mailto:lunde@adobe.com?subject=%20Help%20Hon%20Api)
