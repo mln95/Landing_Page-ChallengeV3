@@ -11,3 +11,7 @@ If you need any more explanation dealing with the OPENWEATHER MAP API please sen
 
 [contact](mailto:contact@contact.com?subject=Help on the OPEN WEATHER MAP API)
 [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
+
+
+[contact](mailto:contact@contact.com?subject=[GitHub]%20Source%20Han%20Sans)
+[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
