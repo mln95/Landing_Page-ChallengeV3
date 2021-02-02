@@ -13,7 +13,13 @@ If you need any more explanation dealing with the OPENWEATHER MAP API please sen
 
 [Contact](mailto:lunde@adobe.com?subject=%20Help%20Hon%20Api)
 
-###
+### Use of the APP
+
+#### Steps
+
+-First of all please make sure nodeJS is installed on your computer. If not the application will not work. You will find the link to download nodeJS here :
+
+[NodeJS](https://nodejs.org/en/download/)
 
 ### Licence & Copyright
 
