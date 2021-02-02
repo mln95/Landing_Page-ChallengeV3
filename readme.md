@@ -1,5 +1,7 @@
 # WEATHER APP
 
+**Version 1.0**
+
 ### Data from the API OPENWEATHERMAP
 
 #### Link of the API
